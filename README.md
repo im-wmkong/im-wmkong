@@ -6,5 +6,5 @@
 
 ❤️ Server developer
 
-https://kongweimin.me/
+https://wmkong.me/
 
