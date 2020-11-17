@@ -2,7 +2,7 @@
 
 ### Hello 👋
 
-> Keep learning and coding.
+> Keep Calm and Carry On
 
 ❤️ Server developer
 
