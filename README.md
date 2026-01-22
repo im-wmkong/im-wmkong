@@ -15,7 +15,7 @@ I build backend systems and distributed applications using Go and reliable engin
 - 💡 I’m passionate about Go, clean architecture, and scalable design  
 - 🌱 Always learning: distributed systems, observability, and cloud tech  
 - 💬 Ask me about Go or server-side patterns  
-- 📫 How to reach me: **im.wmkong [at] email.com** (replace with your contact)
+- 📫 How to reach me: **im.wmkong@gmail.com** (replace with your contact)
 
 ---
 
@@ -23,8 +23,9 @@ I build backend systems and distributed applications using Go and reliable engin
 
 ### Languages
 - Go  
-- Python  
-- JavaScript / TypeScript (if you use them)
+- PHP
+- Python
+- JavaScript / TypeScript
 
 ### Backend & Cloud
 - REST / RPC architectures  
@@ -39,35 +40,13 @@ I build backend systems and distributed applications using Go and reliable engin
 
 ---
 
-## GitHub Stats
-
-<!-- GitHub Stats Cards (optional widgets) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=im-wmkong&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
-## Projects to Check Out
-
-🌟 **Learn more about my work here:**
-
-- 🔹 A server-heavy project you’re proud of  
-- 🔹 Another cool utility or tool you built  
-- 🔹 (Add links + brief one-line descriptions)
-
----
-
 ## Let’s Connect
 
 <p align="center">
   <a href="https://github.com/im-wmkong">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:weimin.kong@email.com">
+  <a href="mailto:im.wmkong@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail" alt="Email" />
   </a>
 </p>
