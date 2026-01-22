@@ -1,7 +1,5 @@
-<!-- 标题 -->
 <h1 align="center">Hi, I'm Weimin (im-wmkong) 👋</h1>
 
-<!-- 简短说明 -->
 <p align="center">
   Server Developer | Go Enthusiast | Solving Problems with Code
 </p>
@@ -15,7 +13,7 @@ I build backend systems and distributed applications using Go and reliable engin
 - 💡 I’m passionate about Go, clean architecture, and scalable design  
 - 🌱 Always learning: distributed systems, observability, and cloud tech  
 - 💬 Ask me about Go or server-side patterns  
-- 📫 How to reach me: **im.wmkong@gmail.com** (replace with your contact)
+- 📫 How to reach me: **im.wmkong@gmail.com**
 
 ---
 
